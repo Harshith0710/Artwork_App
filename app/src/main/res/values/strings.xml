@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Artwork App</string>
+    <string name="art1">Mona Lisa</string>
+    <string name="artist1">Leonardo Da Vinci</string>
+    <string name="year1">(1503–19)</string>
+    <string name="art2">Girl with a Pearl Earring</string>
+    <string name="artist2">Johannes Vermeer</string>
+    <string name="year2">(1665)</string>
+    <string name="art3">The Starry Night</string>
+    <string name="artist3">Vincent van Gogh</string>
+    <string name="year3">(1889)</string>
+    <string name="art4">The Kiss</string>
+    <string name="artist4">Gustav Klimt</string>
+    <string name="year4">(1907–08)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
